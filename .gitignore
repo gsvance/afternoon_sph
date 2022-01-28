@@ -1,0 +1,16 @@
+# Compiled Python files
+*.pyc
+
+# Compiled C binaries
+c_sph_code/sph
+c_sph_code/asciiread
+
+# C object files
+c_sph_code/src/*.o
+
+# Python output model files
+cube_models/model*.sph
+
+# Python output visuals
+visuals/plot*.png
+
